@@ -1,0 +1,112 @@
+<html>
+<head>
+<style>
+
+* {
+	margin: 0;
+	padding: 0;
+}
+html,body{
+overflow:hidden;
+
+}
+
+
+.bg{
+background-image:url("pr2.jpg");
+filter:blur(3px);
+-webkit-filter:blur(3px);
+background-position:left;
+background-repeat:no-repeat;
+height:200%;
+background-size:cover;
+}
+
+.d1
+{
+display:flex;
+align-items:left;
+background-color:rgb(0,0,0);
+background-color:rgba(0,0,0.2,0.5);
+color:white;
+font-weight:bold;
+position:absolute;
+top:6.5%;
+left:11%;
+
+height:82%;
+width:76%;
+z-index:2;
+padding:20px;
+}
+
+.t1{
+margin-right:150px;
+margin-left:20px;
+font-size:16;
+font-family:arial;
+}
+.t2{
+
+
+font-size:15;
+font-family:arial;
+}
+h2{
+color:#b7e9f7;}
+
+</style>
+</head>
+<body>
+
+<div class="bg">
+</div>
+
+<div class="d1">
+<div class="t1">
+<h2> Certifications:</h2>
+<ul>
+<li> 6 months course of C and C++</li> &nbsp
+<li> Web development certification by IBM</li>&nbsp
+<li> Certification in 'Python for Data Science'<br>
+by IIT Madaras(NPTEL)</li>&nbsp
+<li>Certification for participation in National workshop<br>
+ on CMS using Wordpress</li>
+</ul>
+&nbsp
+
+<h2> Internships:</h2>
+<ul>
+<li> 6 months internship in 'Web Development' from Corizo</li>&nbsp
+<li> 1 month internship in 'Web Development' from Oasis Infobyte</li>
+</ul>
+</div>
+
+<div class="t2">
+<h2 >Projects:</h2>
+ <ul>
+<li> <span style="font-weight:bold; color:#b7e9f7">Campus Connect:</span><br>
+Campus Connect' is a social networking platform for a <br>college
+community which can be used for seamless networking,<br> communication,
+and event updates among students, faculty, and alumni.<br>
+
+ <span style="font-weight:bold; ; color:#b7e9f7">Role:</span> Front end development and documentation</li> &nbsp
+ 
+<li><span style="font-weight:bold; color:#b7e9f7"> Tiffin Management System:</span>
+<br>
+Online Tiffin Service System is a web application based on<br> HTML,
+CSS, JS, PHP and Mysql, that allows the administrator<br> to handle all
+the tiffin and mess services online quickly and safely. <br>
+<span style="font-weight:bold; color:#b7e9f7">Role:</span> Front end development and documentation</li> &nbsp
+
+<li><span style="font-weight:bold;  color:#b7e9f7"> Women Safety Device:</span><br>
+This is an IOT based device which is made to safeguard women in <br>
+the event they might face any danger.<br>
+The device uses wireless sensor network to communicate and to <br>
+send alerts to them. <br>
+ <span style="font-weight:bold; color:#b7e9f7">Role:</span> Components connectivity and documentation
+</li></ul>
+</div>
+</div>
+ </body>
+ </html>

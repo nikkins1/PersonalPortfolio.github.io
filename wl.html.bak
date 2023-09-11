@@ -1,0 +1,17 @@
+<html>
+<head>
+<style>
+body{
+margin-top:200px;
+background-color:#D6EEEE;}
+</style>
+
+</head>
+
+<body>
+<center>
+<p><h1> Welcome to my Personal Portfolio!</h1><br>
+<h3>It is created using HTML & CSS.</h3></p>
+<center>
+</body>
+</html>

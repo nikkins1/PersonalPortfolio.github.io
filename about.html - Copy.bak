@@ -1,0 +1,117 @@
+<html>
+<head>
+<style>
+html,body{
+height:100%;
+margin:0;
+padding:0;}
+.bg{
+background-image:url("abt.avif");
+filter:blur(1px);
+-webkit-filter:blur(1px);
+background-position:left;
+background-repeat:no-repeat;
+height:70%;
+background-size:cover;
+background-align:left;
+}
+
+.tx
+{
+position:absolute;
+background-color:rgb(0,0,0);
+background-color:rgba(0,0,0,0.6);
+color:white;
+font-weight:bold;
+border:0px;
+position:absolute;
+top:27%;
+left:24%;
+bottom:5%
+height:30%;
+width:50%;
+z-index:2;
+padding:20px;}
+
+.text{
+position:absolute;
+display:flex;
+font-family:georgia;}
+
+#p1
+{
+
+font-size:22;
+color:#D6EEEE;
+}
+
+#p2{
+font-size:17;
+font-family:georgia;
+text-align:center;
+}
+
+
+.a,.b,.c{
+margin-left:130px;
+}
+
+
+h4,#pa{
+color:#5579c6;}
+#pa{
+margin-top:49px;}
+</style>
+</head>
+<body>
+<center>
+<div class="bg">
+</div>
+<div class="tx">
+<p id ="p1"></i><b>"Looking for opportunities to incorporate my skills and training to help the company grow. <br>
+I am looking forward to roles that will help me realize my potential by exploring the various
+aspects of this field.”</b></i>
+</p>
+  </center>
+  <p> &nbsp </p>
+  
+ <p id= "p2">
+Hello! I am Nikita Solanki. I am from Banswara, Rajasthan.<br>
+I have completed my graduation in 'Computer Application' from Rajasthan Vidyapeeth University, Udaipur, Rajasthan. <br>
+And currently, I am pursuing post graduation in 'Computer Application' from Pune University, Pune, Maharashtra.<br>
+I have decent communication skills and I am a person who loves to work in team. I am hardworking enough and I enjoy learning new things.
+<br>
+<p>&nbsp </p>
+<div class="text" >
+<div class="a">
+<h4>Thing I enjoy doing<br> when I'm not working:</h2>
+<ul>
+<li>Reading</li>
+<li>Writing</li>
+<li>Painting</li>
+</ul>
+</div>
+<div class="b">
+<h4>Activities I have been<br> a part of:</h4>
+<ul>
+<li>Got published in 2 anthologies.</li>
+<li>Organised and participated in open mics.</li>
+<li>Participated in college tech and cultural events.</li>
+</ul>
+</div>
+<div class="c">
+<h4>What makes me worthful <br> for an organisation:</h4>
+<ul>
+<li>Dedicated</li>
+<li>Hardworking</li>
+<li>Decent communication skills</li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+
+
+</body>
+</html>

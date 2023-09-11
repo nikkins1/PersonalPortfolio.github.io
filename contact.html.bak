@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Contact Me page</title>
+	<link rel="stylesheet"
+		href="styles.css">
+</head>
+
+<body>
+	
+	<section class="background firstsection">
+		<div class="box-main">
+			<div class="firstHalf">	
+				<p class="text-big">Contact Me</p>
+
+			
+
+				<br>
+				<p class="center"
+				style="text-decoration:none;
+						color:white;">
+					Click on the below options to Contact me.
+				</p>
+
+			</div>
+		</div>
+	</section>
+	<section class="service">
+		
+	
+		<h1 class="h-primary center"
+			style="margin-top:30px;">
+			Options to Contact
+		</h1>
+		<div id="service">
+			<div class="box">
+				
+				<img src=
+"li.png"
+					alt= "color_image">
+				<br>
+				
+				<!-- Displaying text at
+					the center of the box-->
+				<p class="center">
+					<b>LinkedIn:</b> <a href="linkedin.com/in/nikita-solanki-bbb81123a"> linkedin.com/in/nikita-solanki-bbb81123a</a>
+				</p>
+
+			</div>
+			<div class="box">
+				
+				<!-- Email -->
+				<img src="gmail.png"
+					alt= "color_image">
+				<br>
+				
+					<!-- Displaying text at
+					the center of the box-->
+				<p class="center">
+					<b>Email:</b> <a href=" mailto: nikkins110@gmail.com">nikkins110@gmail.com</a>
+				</p>
+
+			</div>
+			<div class="box">
+				<img src=
+"call.png"
+					alt= "color_image">
+				<br>
+				
+				<!-- Displaying text at
+					the center of the box-->
+				<p class="center">
+					<b>Contact No:</b><a href="6350152277"> , <a href="7229916809 "> 6350152277, 7229916809</a>
+				</p>
+
+			</div>
+		</div>
+	</section>
+	<footer class="background">
+		<p class="text-footer">
+			Copyright @-All rights are reserved
+			<p> &nbsp </p>
+			<center>
+			<sub> I don't hold copyrights for any images used in this website.<br>
+			Image Sources: Google, Pinterest</sup>
+			</center>
+		</p>
+
+	</footer>
+</body>
+
+</html>

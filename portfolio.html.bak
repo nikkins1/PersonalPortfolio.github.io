@@ -1,0 +1,15 @@
+<html>
+<head>
+<title Portfolio</title>
+<style>
+.f2{background-color:#F5fcff; }
+.f1{background-color:#afc6d9;}
+</style>
+</head>
+<frameset border="2" rows="5%,95%" >
+<frame scrolling ="no" class="f1" name ="top" src="nav.html">
+<frame class="f2" name="main" src="wl.html" >
+
+</frameset>
+
+</html>

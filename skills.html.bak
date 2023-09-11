@@ -1,0 +1,89 @@
+<html>
+<head>
+<style>
+html,body
+{
+height:100%;
+overflow:hidden;
+
+
+margin:0;
+padding:0;}}
+*{
+box-sizing:border-box;
+}
+
+
+.bg{
+background-image:url("sk.jpg");
+
+filter:blur(6px);
+-webkit-filter:blur(6px);
+background-position:left;
+background-repeat:no-repeat;
+border:0px;
+height:100%;
+width:100%;
+background-size:cover;
+
+}
+
+.tx
+{
+
+background-color:rgb(0,0,0);
+background-color:rgba(0,0,0,0.6);
+color:white;
+font-weight:bold;
+position:absolute;
+top:30%;
+left:35.2%;
+height:15%;
+width:30%;
+z-index:2;
+padding:20px;
+text-align:left	;
+font-family:arial;
+display:flex;
+}
+
+
+.a,.x,.c
+{
+margin-left:30px;
+}
+.d,.b
+{
+margin-right:30px;
+margin-left:30px;
+}
+
+h2{
+color:#D6EEEE}
+ul{
+text-align:left;}
+
+</style>
+</head>
+<body>
+<div class="bg">
+</div>
+<div class="tx">
+<div id="a">
+
+<ul type ="bullet">
+<li>HTML</li>
+<li>CSS</li>
+<li>JS</li>
+</ul>
+</div>
+<div class="x">
+<ul type ="bullet">
+<li>React JS</li>
+<li>SQL</li>
+<li>OOPs Concepts</li>
+</ul>
+</div>
+</div>
+</body>
+</html>
